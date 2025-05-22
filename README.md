@@ -7,7 +7,7 @@ Voce deverá desenvolver endpoints para:
  - Um  para cadastrar uma venda 
  - Um consultar uma venda
 
-O endpoint de cadastro, devem receber os seguintes dados :
+O endpoint de cadastro, deve receber os seguintes dados :
 
 - Modelo do veiculo
 - Data da venda
